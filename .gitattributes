@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.csv -text
+*.jpg binary
+*.bat text eol=crlf
