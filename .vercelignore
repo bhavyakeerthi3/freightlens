@@ -1,0 +1,12 @@
+__pycache__/
+**/__pycache__/
+.venv/
+test_*.py
+work/
+results/*.jpg
+results/evaluation.txt
+results/verification.md
+results/demo_smoke_test.json
+results/reproducibility.json
+data/shipment_records.csv
+data/sample_output_format_v2.csv
