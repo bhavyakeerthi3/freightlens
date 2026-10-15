@@ -1,0 +1,20 @@
+{
+  "N001": {
+    "note_id": "N001",
+    "date": "2025-02-24",
+    "applies_to": "Chennai-Bangalore",
+    "note": "Heavy flooding on the Chennai-Bangalore highway disrupted normal truck movement from Feb 24 to Mar 8, forcing longer detours and higher trip costs. Roads were passable again by Mar 9."
+  },
+  "N002": {
+    "note_id": "N002",
+    "date": "2025-01-20",
+    "applies_to": "Ahmedabad-Mumbai",
+    "note": "A regional festival week saw a temporary surcharge applied by transporters on the Ahmedabad-Mumbai corridor due to high demand and limited truck availability."
+  },
+  "N003": {
+    "note_id": "N003",
+    "date": "2025-05-05",
+    "applies_to": "All Routes",
+    "note": "Diesel prices rose nationwide starting this week, pushing up transportation costs across all routes by roughly 5-7%."
+  }
+}
