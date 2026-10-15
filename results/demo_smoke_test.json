@@ -1,0 +1,8 @@
+{
+  "api_rows": 728,
+  "question_answer": "Chennai-Bangalore: 1 candidate rise in 5 observed weeks.\n\n2025-03-10 (Chennai-Bangalore): INR 3.5717/tonne-km, +22.1% versus history, +33.8% versus peers. Yes. No applicable cost-increasing note supports this rise.",
+  "output_csv_sha256": "3f89487290ed3056866d290bb0782d8b282a129da14770f3bf9910bfcd23c3a0",
+  "default_csv_unchanged": true,
+  "automated_tests_passed": 21,
+  "independent_identical_runs": 3
+}
