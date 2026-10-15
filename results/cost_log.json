@@ -1,0 +1,16 @@
+{
+  "shipments": 2940,
+  "route_weeks": 728,
+  "verdict_counts": {
+    "No": 715,
+    "No (justified)": 2,
+    "Yes": 11
+  },
+  "model": "None: deterministic TF-IDF retrieval and evidence templates",
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "estimated_cost_usd": 0,
+  "pricing_basis": "No model API or paid service used; published model rate not applicable.",
+  "output_sha256": "3f89487290ed3056866d290bb0782d8b282a129da14770f3bf9910bfcd23c3a0"
+}
