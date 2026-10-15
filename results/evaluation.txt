@@ -1,0 +1,26 @@
+test_bad_rows_and_duplicate_notes (test_assistant.Evaluation.test_bad_rows_and_duplicate_notes) ... ok
+test_changed_positive_note_fails_closed (test_assistant.Evaluation.test_changed_positive_note_fails_closed) ... ok
+test_full_data_contract_and_citations (test_assistant.Evaluation.test_full_data_contract_and_citations) ... ok
+test_history_calendar_window_no_lookahead_peer_exclusion (test_assistant.Evaluation.test_history_calendar_window_no_lookahead_peer_exclusion) ... ok
+test_invalid_input (test_assistant.Evaluation.test_invalid_input) ... ok
+test_labeled_evidence_retrieval (test_assistant.Evaluation.test_labeled_evidence_retrieval) ... ok
+test_ratio_of_sums (test_assistant.Evaluation.test_ratio_of_sums) ... ok
+test_sample_rows_match_numeric_examples (test_assistant.Evaluation.test_sample_rows_match_numeric_examples) ... ok
+test_threshold_explanation_and_validation (test_assistant.Evaluation.test_threshold_explanation_and_validation) ... ok
+test_week_boundaries (test_assistant.Evaluation.test_week_boundaries) ... ok
+test_csv_download (test_demo.HTTPTests.test_csv_download) ... ok
+test_data_and_summary (test_demo.HTTPTests.test_data_and_summary) ... ok
+test_home_and_assets (test_demo.HTTPTests.test_home_and_assets) ... ok
+test_question_response (test_demo.HTTPTests.test_question_response) ... ok
+test_unknown_url_and_long_question (test_demo.HTTPTests.test_unknown_url_and_long_question) ... ok
+test_festival_answer_cites_exact_source (test_questions.QuestionTests.test_festival_answer_cites_exact_source) ... ok
+test_guidance_empty_and_ambiguous (test_questions.QuestionTests.test_guidance_empty_and_ambiguous) ... ok
+test_iso_date_maps_sunday_to_monday (test_questions.QuestionTests.test_iso_date_maps_sunday_to_monday) ... ok
+test_missing_year_is_explicit (test_questions.QuestionTests.test_missing_year_is_explicit) ... ok
+test_month_question_never_reuses_expired_flood_note (test_questions.QuestionTests.test_month_question_never_reuses_expired_flood_note) ... ok
+test_verdict_summary (test_questions.QuestionTests.test_verdict_summary) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 1.197s
+
+OK

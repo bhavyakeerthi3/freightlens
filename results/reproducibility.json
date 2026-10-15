@@ -1,0 +1,21 @@
+{
+  "independent_cli_runs": 3,
+  "identical": true,
+  "sha256": [
+    {
+      "output.csv": "3f89487290ed3056866d290bb0782d8b282a129da14770f3bf9910bfcd23c3a0",
+      "audit.json": "b52e5353d1069279be048b5412c6cd067e696940d03db902b618f4b214c42101",
+      "cost_log.json": "3f2dc311c4a33a79cd73ae93a17530187be94872d18ea40d1c24a4bd0e7685a0"
+    },
+    {
+      "output.csv": "3f89487290ed3056866d290bb0782d8b282a129da14770f3bf9910bfcd23c3a0",
+      "audit.json": "b52e5353d1069279be048b5412c6cd067e696940d03db902b618f4b214c42101",
+      "cost_log.json": "3f2dc311c4a33a79cd73ae93a17530187be94872d18ea40d1c24a4bd0e7685a0"
+    },
+    {
+      "output.csv": "3f89487290ed3056866d290bb0782d8b282a129da14770f3bf9910bfcd23c3a0",
+      "audit.json": "b52e5353d1069279be048b5412c6cd067e696940d03db902b618f4b214c42101",
+      "cost_log.json": "3f2dc311c4a33a79cd73ae93a17530187be94872d18ea40d1c24a4bd0e7685a0"
+    }
+  ]
+}
