@@ -1,0 +1,17 @@
+{
+  "url": "https://freightlens-two.vercel.app",
+  "alternate_url": "https://freightlens-bkk3.vercel.app",
+  "deployment_id": "dpl_Zy3QyvuGPu7e1aJbKnk4egs1RXxh",
+  "project": "freightlens",
+  "team": "bk",
+  "team_slug": "bkk3",
+  "target": "production",
+  "status": "READY",
+  "region": "bom1",
+  "runtime": "Python 3.12; static frontend",
+  "source": "Reviewed local project files uploaded through the Vercel connector",
+  "commit": null,
+  "public_without_login": true,
+  "build_duration_seconds": 8.691,
+  "checks": "public_deployment_check.json"
+}
